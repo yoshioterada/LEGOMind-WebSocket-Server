@@ -1,0 +1,6 @@
+com/yoshio3/legomind/websocket/encoders/TypeOfMachine.class
+com/yoshio3/legomind/websocket/encoders/ClientMessageDecoder.class
+com/yoshio3/legomind/websocket/encoders/ClientMessageObject.class
+com/yoshio3/legomind/websocket/encoders/ClientMessageEncoder.class
+com/yoshio3/legomind/websocket/LEGOMindServerEndpoint.class
+com/yoshio3/legomind/websocket/encoders/ClientOrderString.class
